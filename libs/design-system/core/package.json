@@ -16,5 +16,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
   }
 }
